@@ -1,11 +1,12 @@
 {
-  "name": "x-marquee",
+  "name": "mar-quee",
   "version": "0.0.1",
-  "homepage": "https://github.com/yutori/x-marquee",
+  "homepage": "https://github.com/yutori/mar-quee",
   "description": "Custom Element instead of <marquee>",
-  "main": "x-marquee.html",
+  "main": "mar-quee.html",
   "keywords": [
-    "web-components"
+    "web-components",
+    "marquee"
   ],
   "authors": [
     "yutori"
