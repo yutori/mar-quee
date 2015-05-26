@@ -1,0 +1,21 @@
+{
+  "name": "x-marquee",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yutori/x-marquee",
+  "description": "Custom Element instead of <marquee>",
+  "main": "x-marquee.html",
+  "keywords": [
+    "web-components"
+  ],
+  "authors": [
+    "yutori"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
