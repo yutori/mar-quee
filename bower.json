@@ -1,6 +1,6 @@
 {
   "name": "mar-quee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/yutori/mar-quee",
   "description": "Custom Element instead of <marquee>",
   "main": "mar-quee.html",
