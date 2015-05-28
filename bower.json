@@ -6,7 +6,8 @@
   "main": "mar-quee.html",
   "keywords": [
     "web-components",
-    "marquee"
+    "marquee",
+    "mar-quee"
   ],
   "authors": [
     "yutori"
