@@ -20,3 +20,7 @@ bower install mar-quee --save
 ```
 <mar-quee>Hello World!</mar-quee>
 ```
+
+# LICENSE
+MIT
+CSS is borrowed from http://ameblo.jp/ca-1pixel/entry-11534620349.html
